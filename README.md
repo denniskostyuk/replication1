@@ -37,3 +37,19 @@
 Выполните конфигурацию master-master репликации. Произведите проверку.
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
+
+### Ответ 3
+
+Аналогично, как в предыдущем задании, в докерах настроены 2 SQL-сервера:
+![Скрин31](https://github.com/denniskostyuk/replication1/blob/main/Task-31.png)
+
+Ныряем в каждый докер и мотрим настройки в файле my.cnf:
+![Скрин311](https://github.com/denniskostyuk/replication1/blob/main/Task-311.png)
+
+Ныряем в докер SQL-сервера Master-1 и смотрим статус:
+![Скрин32](https://github.com/denniskostyuk/replication1/blob/main/Task-32.png)
+
+Ныряем в докер SQL-сервера Master-2 и смотрим статус:
+![Скрин33](https://github.com/denniskostyuk/replication1/blob/main/Task-33.png)
+
+Проверка показала, что данные реплицируются в обе стороны ))
