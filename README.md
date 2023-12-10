@@ -19,7 +19,7 @@
 ### Ответ 2
 
 В докерах настроены 2 SQL-сервера:
-![Скрин1](https://github.com/denniskostyuk/replication1/blob/main/task-21.png)
+![Скрин1](https://github.com/denniskostyuk/replication1/blob/main/Task-21.png)
 
 Ныряем в докер SQL-сервера Slave:
 
