@@ -21,6 +21,9 @@
 В докерах настроены 2 SQL-сервера:
 ![Скрин1](https://github.com/denniskostyuk/replication1/blob/main/Task-21.png)
 
+Ныряем в каждый докер и мотрим настройки в файле my.cnf:
+![Скрин11](https://github.com/denniskostyuk/replication1/blob/main/Task-211.png)
+
 Ныряем в докер SQL-сервера Slave и смотрим статус:
 ![Скрин2](https://github.com/denniskostyuk/replication1/blob/main/Task-22.png)
 
