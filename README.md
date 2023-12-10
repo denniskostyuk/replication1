@@ -22,8 +22,10 @@
 ![Скрин1](https://github.com/denniskostyuk/replication1/blob/main/Task-21.png)
 
 Ныряем в докер SQL-сервера Slave и смотрим статус:
-![Скрин1](https://github.com/denniskostyuk/replication1/blob/main/Task-22.png)
+![Скрин2](https://github.com/denniskostyuk/replication1/blob/main/Task-22.png)
 
+Ныряем в докер SQL-сервера Master и смотрим статус:
+![Скрин3](https://github.com/denniskostyuk/replication1/blob/main/Task-23.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
